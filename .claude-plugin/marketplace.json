@@ -1,0 +1,20 @@
+{
+  "name": "dan-domain-plugins",
+  "version": "1.0.0",
+  "description": "Domain investing and research plugins for Claude Code.",
+  "owner": {
+    "name": "Dan Navarro"
+  },
+  "plugins": [
+    {
+      "name": "comp-domain-research",
+      "description": "Turn one reported domain sale into 10 ranked unregistered names in the same syntax, with live availability checks, conflict screening, a market-comps table, and pricing guidance.",
+      "version": "1.2.0",
+      "source": "./plugins/comp-domain-research",
+      "category": "research",
+      "author": {
+        "name": "Dan Navarro"
+      }
+    }
+  ]
+}
