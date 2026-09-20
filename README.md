@@ -5,11 +5,9 @@ A Claude Code marketplace of domain investing and research plugins.
 ## Install
 
 ```bash
-/plugin marketplace add <owner>/<repo>
+/plugin marketplace add pieman64/dan-domain-plugins
 /plugin install comp-domain-research@dan-domain-plugins
 ```
-
-Replace `<owner>/<repo>` with the GitHub repository this marketplace is published from.
 
 ## Plugins
 
